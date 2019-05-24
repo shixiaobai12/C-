@@ -1,0 +1,10 @@
+D:\C#程序\温度转换\温度转换\bin\Debug\温度转换.exe.config
+D:\C#程序\温度转换\温度转换\bin\Debug\温度转换.exe
+D:\C#程序\温度转换\温度转换\bin\Debug\温度转换.pdb
+D:\C#程序\温度转换\温度转换\obj\Debug\温度转换.csprojAssemblyReference.cache
+D:\C#程序\温度转换\温度转换\obj\Debug\温度转换.Form1.resources
+D:\C#程序\温度转换\温度转换\obj\Debug\温度转换.Properties.Resources.resources
+D:\C#程序\温度转换\温度转换\obj\Debug\温度转换.csproj.GenerateResource.cache
+D:\C#程序\温度转换\温度转换\obj\Debug\温度转换.csproj.CoreCompileInputs.cache
+D:\C#程序\温度转换\温度转换\obj\Debug\温度转换.exe
+D:\C#程序\温度转换\温度转换\obj\Debug\温度转换.pdb

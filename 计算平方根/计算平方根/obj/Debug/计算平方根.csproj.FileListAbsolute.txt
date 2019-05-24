@@ -1,0 +1,10 @@
+D:\C#程序\计算平方根\计算平方根\bin\Debug\计算平方根.exe.config
+D:\C#程序\计算平方根\计算平方根\bin\Debug\计算平方根.exe
+D:\C#程序\计算平方根\计算平方根\bin\Debug\计算平方根.pdb
+D:\C#程序\计算平方根\计算平方根\obj\Debug\计算平方根.csprojAssemblyReference.cache
+D:\C#程序\计算平方根\计算平方根\obj\Debug\计算平方根.Form1.resources
+D:\C#程序\计算平方根\计算平方根\obj\Debug\计算平方根.Properties.Resources.resources
+D:\C#程序\计算平方根\计算平方根\obj\Debug\计算平方根.csproj.GenerateResource.cache
+D:\C#程序\计算平方根\计算平方根\obj\Debug\计算平方根.csproj.CoreCompileInputs.cache
+D:\C#程序\计算平方根\计算平方根\obj\Debug\计算平方根.exe
+D:\C#程序\计算平方根\计算平方根\obj\Debug\计算平方根.pdb

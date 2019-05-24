@@ -1,0 +1,2 @@
+D:\C#程序\project4_5\project4_5\obj\Debug\project4_5.csprojResolveAssemblyReference.cache
+D:\C#程序\project4_5\project4_5\obj\Debug\project4_5.csproj.CoreCompileInputs.cache

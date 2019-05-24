@@ -1,0 +1,11 @@
+D:\C#程序\练习\练习\bin\Debug\netcoreapp2.0\练习.deps.json
+D:\C#程序\练习\练习\bin\Debug\netcoreapp2.0\练习.runtimeconfig.json
+D:\C#程序\练习\练习\bin\Debug\netcoreapp2.0\练习.runtimeconfig.dev.json
+D:\C#程序\练习\练习\bin\Debug\netcoreapp2.0\练习.dll
+D:\C#程序\练习\练习\bin\Debug\netcoreapp2.0\练习.pdb
+D:\C#程序\练习\练习\obj\Debug\netcoreapp2.0\练习.csprojAssemblyReference.cache
+D:\C#程序\练习\练习\obj\Debug\netcoreapp2.0\练习.csproj.CoreCompileInputs.cache
+D:\C#程序\练习\练习\obj\Debug\netcoreapp2.0\练习.AssemblyInfoInputs.cache
+D:\C#程序\练习\练习\obj\Debug\netcoreapp2.0\练习.AssemblyInfo.cs
+D:\C#程序\练习\练习\obj\Debug\netcoreapp2.0\练习.dll
+D:\C#程序\练习\练习\obj\Debug\netcoreapp2.0\练习.pdb

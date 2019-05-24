@@ -1,0 +1,10 @@
+D:\C#程序\屏幕保护\屏幕保护\bin\Debug\屏幕保护.exe.config
+D:\C#程序\屏幕保护\屏幕保护\bin\Debug\屏幕保护.exe
+D:\C#程序\屏幕保护\屏幕保护\bin\Debug\屏幕保护.pdb
+D:\C#程序\屏幕保护\屏幕保护\obj\Debug\屏幕保护.csprojAssemblyReference.cache
+D:\C#程序\屏幕保护\屏幕保护\obj\Debug\屏幕保护.Form1.resources
+D:\C#程序\屏幕保护\屏幕保护\obj\Debug\屏幕保护.Properties.Resources.resources
+D:\C#程序\屏幕保护\屏幕保护\obj\Debug\屏幕保护.csproj.GenerateResource.cache
+D:\C#程序\屏幕保护\屏幕保护\obj\Debug\屏幕保护.csproj.CoreCompileInputs.cache
+D:\C#程序\屏幕保护\屏幕保护\obj\Debug\屏幕保护.exe
+D:\C#程序\屏幕保护\屏幕保护\obj\Debug\屏幕保护.pdb

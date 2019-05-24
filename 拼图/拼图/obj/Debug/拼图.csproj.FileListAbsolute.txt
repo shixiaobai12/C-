@@ -1,0 +1,5 @@
+D:\C#程序\拼图\拼图\obj\Debug\拼图.csprojAssemblyReference.cache
+D:\C#程序\拼图\拼图\obj\Debug\拼图.Form1.resources
+D:\C#程序\拼图\拼图\obj\Debug\拼图.Properties.Resources.resources
+D:\C#程序\拼图\拼图\obj\Debug\拼图.csproj.GenerateResource.cache
+D:\C#程序\拼图\拼图\obj\Debug\拼图.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+D:\C#程序\双色球抽奖\双色球抽奖\bin\Debug\netcoreapp2.0\双色球抽奖.dll
+D:\C#程序\双色球抽奖\双色球抽奖\bin\Debug\netcoreapp2.0\双色球抽奖.deps.json
+D:\C#程序\双色球抽奖\双色球抽奖\bin\Debug\netcoreapp2.0\双色球抽奖.runtimeconfig.json
+D:\C#程序\双色球抽奖\双色球抽奖\bin\Debug\netcoreapp2.0\双色球抽奖.runtimeconfig.dev.json
+D:\C#程序\双色球抽奖\双色球抽奖\bin\Debug\netcoreapp2.0\双色球抽奖.pdb
+D:\C#程序\双色球抽奖\双色球抽奖\obj\Debug\netcoreapp2.0\双色球抽奖.csprojAssemblyReference.cache
+D:\C#程序\双色球抽奖\双色球抽奖\obj\Debug\netcoreapp2.0\双色球抽奖.csproj.CoreCompileInputs.cache
+D:\C#程序\双色球抽奖\双色球抽奖\obj\Debug\netcoreapp2.0\双色球抽奖.AssemblyInfoInputs.cache
+D:\C#程序\双色球抽奖\双色球抽奖\obj\Debug\netcoreapp2.0\双色球抽奖.AssemblyInfo.cs
+D:\C#程序\双色球抽奖\双色球抽奖\obj\Debug\netcoreapp2.0\双色球抽奖.dll
+D:\C#程序\双色球抽奖\双色球抽奖\obj\Debug\netcoreapp2.0\双色球抽奖.pdb

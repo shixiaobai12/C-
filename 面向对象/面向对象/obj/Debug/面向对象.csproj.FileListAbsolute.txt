@@ -1,0 +1,7 @@
+D:\C#程序\面向对象\面向对象\bin\Debug\面向对象.exe.config
+D:\C#程序\面向对象\面向对象\bin\Debug\面向对象.exe
+D:\C#程序\面向对象\面向对象\bin\Debug\面向对象.pdb
+D:\C#程序\面向对象\面向对象\obj\Debug\面向对象.csprojAssemblyReference.cache
+D:\C#程序\面向对象\面向对象\obj\Debug\面向对象.csproj.CoreCompileInputs.cache
+D:\C#程序\面向对象\面向对象\obj\Debug\面向对象.exe
+D:\C#程序\面向对象\面向对象\obj\Debug\面向对象.pdb

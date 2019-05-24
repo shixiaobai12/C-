@@ -1,0 +1,7 @@
+D:\C#程序\求素数1\求素数1\bin\Debug\求素数1.exe.config
+D:\C#程序\求素数1\求素数1\bin\Debug\求素数1.exe
+D:\C#程序\求素数1\求素数1\bin\Debug\求素数1.pdb
+D:\C#程序\求素数1\求素数1\obj\Debug\求素数1.csprojAssemblyReference.cache
+D:\C#程序\求素数1\求素数1\obj\Debug\求素数1.csproj.CoreCompileInputs.cache
+D:\C#程序\求素数1\求素数1\obj\Debug\求素数1.exe
+D:\C#程序\求素数1\求素数1\obj\Debug\求素数1.pdb

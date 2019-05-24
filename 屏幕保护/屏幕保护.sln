@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "屏幕保护", "屏幕保护\屏幕保护.csproj", "{AB77AD5F-E2E2-46E7-82A3-6114904689CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB77AD5F-E2E2-46E7-82A3-6114904689CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB77AD5F-E2E2-46E7-82A3-6114904689CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB77AD5F-E2E2-46E7-82A3-6114904689CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB77AD5F-E2E2-46E7-82A3-6114904689CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A54993C-90EE-4AC1-AA58-C65371C0E368}
+	EndGlobalSection
+EndGlobal

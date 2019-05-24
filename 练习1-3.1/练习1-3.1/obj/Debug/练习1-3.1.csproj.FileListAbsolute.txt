@@ -1,0 +1,7 @@
+D:\C#程序\练习1-3.1\练习1-3.1\obj\Debug\练习1-3.1.csprojResolveAssemblyReference.cache
+D:\C#程序\练习1-3.1\练习1-3.1\obj\Debug\练习1-3.1.csproj.CoreCompileInputs.cache
+D:\C#程序\练习1-3.1\练习1-3.1\bin\Debug\练习1-3.1.exe.config
+D:\C#程序\练习1-3.1\练习1-3.1\bin\Debug\练习1-3.1.exe
+D:\C#程序\练习1-3.1\练习1-3.1\bin\Debug\练习1-3.1.pdb
+D:\C#程序\练习1-3.1\练习1-3.1\obj\Debug\练习1-3.1.exe
+D:\C#程序\练习1-3.1\练习1-3.1\obj\Debug\练习1-3.1.pdb
